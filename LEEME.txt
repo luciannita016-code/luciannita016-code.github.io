@@ -1,0 +1,16 @@
+SÚMATE AL RESCATE — LANDING PAGE
+
+Contenido:
+- index.html: página promocional completa y adaptable a computadora, tablet y celular.
+- style.css: estilos y diseño.
+- script.js: filtros de galería, ampliación de imágenes y menú móvil.
+- juego.html: videojuego original incluido sin modificaciones.
+- assets/: recursos gráficos originales extraídos del videojuego.
+
+Para usar:
+1. Descomprime el ZIP completo.
+2. Mantén index.html, style.css, script.js, juego.html y la carpeta assets juntos.
+3. Abre index.html en tu navegador.
+4. El botón “EMPEZAR A JUGAR” abre el videojuego original en una pestaña nueva.
+
+La landing es una página de presentación; el videojuego no está incrustado dentro de ella.
